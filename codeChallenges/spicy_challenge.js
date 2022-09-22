@@ -15,31 +15,3 @@ if (goodDrivingRecord && isOver25) {
 } else {
   console.log('You get the normal price')
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// if (goodDrivingRecord && isOver25){
-//   console.log("You get a discount on the car rental!")
-// } else if (!goodDrivingRecord && !isOver25) {
-//   console.log("You need to have someone else sign for the rental")
-// } else {
-//   console.log("You pay the normal price")
-// }
